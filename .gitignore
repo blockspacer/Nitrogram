@@ -1,2 +1,6 @@
 [Dd]ebug*/
 [Rr]elease*/
+*.DS_Store
+*.user
+_out
+Build
