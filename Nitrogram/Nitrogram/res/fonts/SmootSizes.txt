@@ -1,0 +1,26 @@
+Family: "Futura LT Bold"
+Style "Bold" is smoothy scalable
+Smooth sizes: 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 20, 22, 24, 26, 28, 36, 48, 72
+Style "Bold Italic" is smoothy scalable
+Smooth sizes: 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 20, 22, 24, 26, 28, 36, 48, 72
+----------------------------
+Family: "Futura LT Book"
+Style "Normal" is smoothy scalable
+Smooth sizes: 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 20, 22, 24, 26, 28, 36, 48, 72
+Style "Bold" is smoothy scalable
+Smooth sizes: 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 20, 22, 24, 26, 28, 36, 48, 72
+Style "Italic" is smoothy scalable
+Smooth sizes: 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 20, 22, 24, 26, 28, 36, 48, 72
+Style "Bold Italic" is smoothy scalable
+Smooth sizes: 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 20, 22, 24, 26, 28, 36, 48, 72
+----------------------------
+Family: "Futura LT Light"
+Style "Extra Light" is smoothy scalable
+Smooth sizes: 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 20, 22, 24, 26, 28, 36, 48, 72
+Style "Bold" is smoothy scalable
+Smooth sizes: 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 20, 22, 24, 26, 28, 36, 48, 72
+Style "Extra Light Italic" is smoothy scalable
+Smooth sizes: 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 20, 22, 24, 26, 28, 36, 48, 72
+Style "Bold Italic" is smoothy scalable
+Smooth sizes: 6, 7, 8, 9, 10, 11, 12, 14, 16, 18, 20, 22, 24, 26, 28, 36, 48, 72
+----------------------------
